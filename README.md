@@ -5,4 +5,4 @@ It contains following projects:-
 2) File Packer Unpacker.
 3) PE File Viewer.
 4) Process Monitoring tool.
-5) Device Driver.
+5) Character Device Driver.
